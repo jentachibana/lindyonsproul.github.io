@@ -38,12 +38,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.markdown
-  - swingcal.markdown
-  - Events
-  - get-involved.markdown
-  - faq.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -5,19 +5,21 @@ permalink: "/swingcal/"
 ---
 
 yay swingcal
+ 
+# The Basics 
 
-#The Basics
 1 unit 
 Pass/No Pass
 What will you learn?
 Friday 6-8pm
 Esh?
 
-#What you will learn 
+# What you will learn 
 1. How to swing dance
 2. History and culture of swing dancing 
 
-#Assignments and grading 
+
+# Assignments and grading 
 15% Interview Assignment 
 - interview a SwingCore or Bay Area Swing Dancer about their experience, philosophy and story related to swing dancing
 
@@ -32,14 +34,18 @@ Esh?
 
 2 unexcused absences 
 
-#Come to our info session 
+
+# Come to our info session 
 
 
-#COVID safety
+# COVID safety
 1. Masks REQUIRED indoors, and while partner dancing
 2. Sanitize/wash hands before and after class
 3. If you have symptoms, please don’t come to class!
 
+# FAQ
+
+Need 
 
 
 
